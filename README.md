@@ -10,4 +10,4 @@ Port:
 8000
 
 What I learned:
-Through this hands-on activity, I learned how to set up a local web server using Python's `http.server` module directly within GitHub Codespaces. I gained practical experience using port forwarding to access my web pages live over the internet. Furthermore, I practiced my web development and version control skills by creating a multi-page HTML site with CSS styling and using Git commands to successfully commit and push my project to a remote repository.
+In this activity, I learned to spin up a local Python web server inside GitHub Codespaces and preview my site live using port forwarding. I also put my web dev and version control skills into practice by building a styled, multi-page HTML site and pushing the final project to GitHub with Git.
